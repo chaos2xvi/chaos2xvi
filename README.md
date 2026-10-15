@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.gif" alt="chaos2xvi" width="100%">
+</p>
 
-<!--
-**chaos2xvi/chaos2xvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>born from chaos. learning to control it.</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://x.com/chaos2xvi"><img src="https://img.shields.io/badge/x-chaos2xvi-E5212B?style=flat-square&logo=x&logoColor=white&labelColor=0d0d0d"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```console
+┌──(chaos㉿kali)-[~]
+└─$ whoami
+chaos — cyber enthusiast
+
+┌──(chaos㉿kali)-[~]
+└─$ cat focus.txt
+[+] networking
+[+] linux
+[+] web security
+[+] offensive security
+
+┌──(chaos㉿kali)-[~]
+└─$ echo $STATUS
+learning. breaking. rebuilding.
+```
